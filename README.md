@@ -3,7 +3,7 @@ Um sistema que administra todos os seus clientes
 
 What's up, Dev? 😜
 
-Varias empresas sofrem com a falta de conhecimento sobre seu cliente, levando-as à falÊncia.
+Varias empresas sofrem com a falta de conhecimento sobre seu cliente, levando-as à falência.
 A fim de contabilizar todos os dados sobre o clientes para empresas, resolvi contruir um sistema
 de gerenciaento de clientes, onde nele você pode adicionar, deletar e editar dados sobre o seu cliente! 🤩
 
